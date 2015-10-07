@@ -9,7 +9,7 @@ It is necessary to install all programm set on Windows OS according to the [help
 
 
 ## Team development of project 
-## [SoftServe Course Management System] (https://github.com/nromanen/Ch-034)
+[SoftServe Course Management System] (https://github.com/nromanen/Ch-034)
 
 Model «Fork + Pull» is a popular for open source projects and allows developers work independently.
 
