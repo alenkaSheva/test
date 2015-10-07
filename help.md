@@ -28,11 +28,20 @@ Model «Fork + Pull» is a popular for open source projects and allows developer
 ```
   git checkout -b feature
 ```
-# Pull all (npm and bower) dependencies:
+# Pull all (npm and bower) dependencies
 
 Do it via any cmd:
 ```
   bower install
   npm install
 ```  
+
+ # Working with project
  
+ In a separate window run json-server and grunt task:
+```
+  json-server --watch db.json
+```
+```
+  grunt server:dev
+```
