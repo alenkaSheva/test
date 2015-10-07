@@ -17,13 +17,13 @@ Model «Fork + Pull» is a popular for open source projects and allows developer
 1) Create your own repo "fork" from [main repository] (https://github.com/nromanen/Ch-034) on GitHub clicking ![alt text] (https://github.com/alenkasun/Ch-034/blob/viewdocs/docs/src/img/fork-button.png "Create fork") 
 
 2) Clone repository
-  
-  `git clone https://github.com/<YOUR-USERNAME>/Ch-034.git`
-
+```  
+  git clone https://github.com/<YOUR-USERNAME>/Ch-034.git
+```
 3) Create binding to [main repository] (https://github.com/nromanen/Ch-034) 
-
-  `git remote add upstream https://github.com/nromanen/Ch-034.git`
-  
+```
+  git remote add upstream https://github.com/nromanen/Ch-034.git
+```  
 4) Create separate branch for new feature:  
 
   git checkout -b feature
