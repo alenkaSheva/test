@@ -14,4 +14,4 @@ Model «Fork + Pull» is a popular for open source projects and allows developer
 
 # Start
 
-1) Create your own repo "fork" from main repository on GitHub clicking
+1) Create your own repo "fork" from main repository on GitHub clicking ![alt text] (https://github.com/alenkasun/Ch-034/blob/viewdocs/docs/src/img/fork-button.png "Create fork") 
