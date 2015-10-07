@@ -25,9 +25,9 @@ Model «Fork + Pull» is a popular for open source projects and allows developer
   git remote add upstream https://github.com/nromanen/Ch-034.git
 ```  
 4) Create separate branch for new feature:  
-
+```
   git checkout -b feature
-
+```
 # Pull all (npm and bower) dependencies:
 
 Do it via any cmd:
