@@ -31,8 +31,8 @@ Model «Fork + Pull» is a popular for open source projects and allows developer
 # Pull all (npm and bower) dependencies:
 
 Do it via any cmd:
-
+```
   bower install
   npm install
-  
-ueuhed  
+```  
+ 
