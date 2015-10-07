@@ -36,12 +36,14 @@ Do it via any cmd:
   npm install
 ```  
 
- # Working with project
+# Working with project
  
- In a separate window run json-server and grunt task:
+In a separate window run json-server and grunt task:
 ```
   json-server --watch db.json
 ```
 ```
   grunt server:dev
 ```
+
+Go to project http://localhost:8034/ 
